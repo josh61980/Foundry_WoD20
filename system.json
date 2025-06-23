@@ -620,7 +620,7 @@
   "bugs": "https://github.com/JohanFalt/Foundry_WoD20/issues",
   "changelog": "https://github.com/JohanFalt/Foundry_WoD20/wiki/Changelog",
   "background": "systems/worldofdarkness/assets/img/graphics/wod.png",
-  "manifest": "https://github.com/JohanFalt/Foundry_WoD20/releases/download/v4.2.12/system.json",  
-  "download": "https://github.com/JohanFalt/Foundry_WoD20/releases/download/v4.2.12/v4.2.12.zip",
+  "manifest": "https://github.com/josh61980/Foundry_WoD20/releases/download/v0.1/system.json",  
+  "download": "https://github.com/josh61980/Foundry_WoD20/releases/download/v0.1/vworldofdarkness.zip",
   "license": "LICENSE.txt"
 }
